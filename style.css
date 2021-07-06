@@ -1,0 +1,23 @@
+body{font-family: 'Poppins', sans-serif;
+margin: 0%;}
+h1{
+    font-size: 90px;
+    color:darkgreen
+}
+.yellow-color{
+    color: rgb(181, 212, 6);
+    background-color: crimson;
+}
+h3{
+    color: darkslategray;
+}
+section{
+    display: flex;
+}
+.link-button{ 
+    text-decoration: none;
+}
+.uff{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
